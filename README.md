@@ -29,7 +29,7 @@ This project presents an interactive Food Delivery Performance Dashboard built u
   - Month
 
 ## 📷 Dashboard Preview
-![Dashboard](dashbroad(2).png)
+![Dashboard](dashbroad.png)
 
 ## 🚀 Business Impact
 This dashboard helps management monitor operational efficiency, identify high-performing categories, and improve delivery success rates through data-driven decision making.
